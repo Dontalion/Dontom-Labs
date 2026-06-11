@@ -1,0 +1,18 @@
+# .ownable.yaml — content layout for the Ownable Markdown Editor.
+# https://ownable.dev/docs/ownable-yaml
+version: 1
+types:
+  note:
+    dirs: []
+  event:
+    dirs:
+      - events
+    bundle: false
+  publication:
+    dirs:
+      - publications
+    bundle: false
+  slides:
+    dirs:
+      - slides
+    bundle: false
