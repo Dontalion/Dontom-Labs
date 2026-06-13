@@ -15,6 +15,7 @@ hugoblox:
   typography:
     font: sans
     size: lg
+    pack: modern
   layout:
     radius: md
     spacing: comfortable
